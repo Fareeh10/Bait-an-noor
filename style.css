@@ -545,6 +545,7 @@ Examples of Inline Elements
 }
 
 .section1 {
+  background: linear-gradient(to bottom,white,80%,cornsilk);
   position: relative;
   overflow: hidden; 
   display: flex;
