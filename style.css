@@ -1362,7 +1362,7 @@ Wraps to the next row if there's not enough spac*/
 }
 
 .btn {
-  margin-top: 1.2rem;
+  margin-top: 0rem;
   display: inline-block;
   background-color: #dabf18;
   color: #fff;
