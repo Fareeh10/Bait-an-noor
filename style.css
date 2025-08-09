@@ -560,6 +560,7 @@ Examples of Inline Elements
   padding-top: 0rem;
   padding-bottom: 0rem;
   flex-wrap: wrap;
+  background: linear-gradient(white,80%,cornsilk);
 }
 
 .hero-image img {
