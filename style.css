@@ -1234,8 +1234,8 @@ Wraps to the next row if there's not enough spac*/
 /* WhatsApp container */
 .whatsapp-container {
   position: fixed;
-  bottom: 20px;
-  right: 20px;
+  bottom: 2%;
+  right: 5%;
   z-index: 999;
   display: flex;
   align-items: center;
