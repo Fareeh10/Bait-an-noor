@@ -73,6 +73,10 @@ html, body {
   height:100%;
 }
 
+body {
+    background:linear-gradient(white,80%,cornsilk);
+}
+
 .explore-btn {
   background: #dabf18;
   color: white;
@@ -545,7 +549,6 @@ Examples of Inline Elements
 }
 
 .section1 {
-  background: linear-gradient(to bottom,white,80%,cornsilk);
   position: relative;
   overflow: hidden; 
   display: flex;
